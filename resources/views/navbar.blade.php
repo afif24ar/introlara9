@@ -1,3 +1,3 @@
 <div class="container">
-    navbar
+    navbars
 </div>
