@@ -8,6 +8,6 @@
 </head>
 <body>
     <p>ini halaman latihan {{$value}}</p>
-    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur distinctio incidunt debitis atque quasi hic non perferendis sint totam assumenda beatae explicabo impedit nihil, nemo dicta! Quae sapiente ea quo.</p>
 </body>
 </html>
